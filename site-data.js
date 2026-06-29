@@ -16,7 +16,6 @@ const gallery = [
   'wechatimg5.jpg',
   'wechatimg8.jpg',
   'wechatimg9.jpg',
-  'wechatimg10.jpg',
 ].map(asset);
 
 export const siteData = {
